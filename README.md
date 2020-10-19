@@ -1,0 +1,2 @@
+This is a simple algorithm that calcul the average of 10 number-input .
+![alt text](https://scontent-mrs2-1.xx.fbcdn.net/v/t1.15752-9/121973194_1042818336164566_7771395275014680182_n.jpg?_nc_cat=105&_nc_sid=ae9488&_nc_eui2=AeEaPLvYqB36i7tmq9I7nbeFHLdee3w1Nboct157fDU1upGemADnl6FrlDBgI7e_E3CNUSwLWMXahFGkaqT6AtMY&_nc_ohc=jmRNolRa1uoAX9aP1_a&_nc_ht=scontent-mrs2-1.xx&oh=f27641a13ea7a5c45527c34aa4ff8716&oe=5FB3AC2C)
